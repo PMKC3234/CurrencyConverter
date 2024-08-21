@@ -29,3 +29,8 @@ Currency Converter is a simple and user-friendly iOS application that allows use
 - **UIKit**: The framework used for user interface components and animations.
 - **URLSession**: Used for fetching data from web APIs.
 - **CAGradientLayer**: Used for the background gradient effect.
+
+## Uygulama Görselleri (Application Visuals)
+
+### 1 - HomeScreen
+![CurrencyConverterImage](https://github.com/user-attachments/assets/4bb5361e-bfd3-4a1e-ba50-9e985117e6bf)
